@@ -1,5 +1,0 @@
-"Diagnose UI latency: trace all information given for service_stats ,service_edge_stats ,net_flow_graph  http_data and   through microservices-demo/frontend for the last 10 minutes,
- highlighting bottlenecks and cumulative delays in its interactions with downstream services."
-
-
-
